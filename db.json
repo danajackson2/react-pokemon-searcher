@@ -1340,6 +1340,15 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "Danasaur",
+      "hp": 800,
+      "sprites": {
+        "front": "https://i.imgur.com/vHW2EJU.png",
+        "back": "https://imgur.com/iy1L8fR.png"
+      },
+      "id": 151
     }
   ]
 }
